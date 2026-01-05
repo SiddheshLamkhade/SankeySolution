@@ -58,7 +58,3 @@ ArrayList – Display attendance records
 3. Compile and run StudentAttendanceSystem.java
 4. Follow the menu options in the console
 
-## Author
-
-Sankey Solution – Task 1
-Student Attendance Management System
